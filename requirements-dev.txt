@@ -1,0 +1,4 @@
+jupyter
+pytest
+black
+flake8
